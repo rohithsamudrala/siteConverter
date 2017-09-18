@@ -1,0 +1,2456 @@
+[
+  {
+    "type": "region",
+    "name": "Oncor",
+    "read-only": false,
+    "areas": [
+      {
+        "type": "area",
+        "name": "Core Site",
+        "read-only": false,
+        "sites": [
+          {
+            "type": "site",
+            "name": "SOSF - Lancaster TOC/SOSF",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.14.0",
+                "last": "172.29.14.255"
+              },
+              {
+                "first": "172.21.214.254",
+                "last": "172.21.214.254"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "ESBX - Electric Service Building",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.30.200.0",
+                "last": "172.30.200.255"
+              },
+              {
+                "first": "172.30.201.0",
+                "last": "172.30.201.255"
+              },
+              {
+                "first": "172.30.202.0",
+                "last": "172.30.202.255"
+              },
+              {
+                "first": "172.30.203.0",
+                "last": "172.30.203.255"
+              },
+              {
+                "first": "172.30.204.0",
+                "last": "172.30.204.255"
+              },
+              {
+                "first": "172.30.205.0",
+                "last": "172.30.205.255"
+              },
+              {
+                "first": "172.30.206.0",
+                "last": "172.30.206.255"
+              },
+              {
+                "first": "172.30.207.0",
+                "last": "172.30.207.255"
+              },
+              {
+                "first": "172.30.208.0",
+                "last": "172.30.208.255"
+              },
+              {
+                "first": "172.30.209.0",
+                "last": "172.30.209.255"
+              },
+              {
+                "first": "172.30.210.0",
+                "last": "172.30.210.255"
+              },
+              {
+                "first": "172.30.211.0",
+                "last": "172.30.211.255"
+              },
+              {
+                "first": "172.30.212.0",
+                "last": "172.30.212.255"
+              },
+              {
+                "first": "172.29.188.0",
+                "last": "172.29.188.255"
+              },
+              {
+                "first": "172.29.187.0",
+                "last": "172.29.187.255"
+              },
+              {
+                "first": "172.29.184.0",
+                "last": "172.29.184.255"
+              },
+              {
+                "first": "172.29.189.0",
+                "last": "172.29.189.255"
+              },
+              {
+                "first": "172.29.185.0",
+                "last": "172.29.185.255"
+              },
+              {
+                "first": "10.220.50.0",
+                "last": "10.220.50.255"
+              },
+              {
+                "first": "10.220.52.0",
+                "last": "10.220.52.255"
+              },
+              {
+                "first": "10.220.53.0",
+                "last": "10.220.53.255"
+              },
+              {
+                "first": "10.220.54.0",
+                "last": "10.220.54.255"
+              },
+              {
+                "first": "10.220.55.0",
+                "last": "10.220.55.255"
+              },
+              {
+                "first": "10.220.56.0",
+                "last": "10.220.56.255"
+              },
+              {
+                "first": "10.220.57.0",
+                "last": "10.220.57.255"
+              },
+              {
+                "first": "10.220.58.0",
+                "last": "10.220.58.255"
+              },
+              {
+                "first": "10.220.59.0",
+                "last": "10.220.59.255"
+              },
+              {
+                "first": "10.220.60.0",
+                "last": "10.220.60.255"
+              },
+              {
+                "first": "10.220.61.0",
+                "last": "10.220.61.255"
+              },
+              {
+                "first": "10.220.49.0",
+                "last": "10.220.49.255"
+              },
+              {
+                "first": "10.220.51.0",
+                "last": "10.220.51.255"
+              },
+              {
+                "first": "10.220.64.0",
+                "last": "10.220.64.255"
+              },
+              {
+                "first": "172.30.219.0",
+                "last": "172.30.219.255"
+              },
+              {
+                "first": "172.30.95.0",
+                "last": "172.30.95.255"
+              },
+              {
+                "first": "172.29.190.0",
+                "last": "172.29.190.255"
+              },
+              {
+                "first": "172.30.21.0",
+                "last": "172.30.21.255"
+              },
+              {
+                "first": "172.30.153.0",
+                "last": "172.30.153.255"
+              },
+              {
+                "first": "172.30.31.0",
+                "last": "172.30.31.255"
+              },
+              {
+                "first": "172.30.22.0",
+                "last": "172.30.22.255"
+              },
+              {
+                "first": "172.30.30.0",
+                "last": "172.30.30.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "TGMX - Transmission Grid Management",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.192.0",
+                "last": "172.29.192.255"
+              },
+              {
+                "first": "172.29.195.0",
+                "last": "172.29.195.255"
+              },
+              {
+                "first": "172.29.193.0",
+                "last": "172.29.193.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "WRXX - Woodall Rodgers",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.20.1.0",
+                "last": "172.20.1.255"
+              },
+              {
+                "first": "172.20.2.0",
+                "last": "172.20.2.255"
+              },
+              {
+                "first": "172.20.3.0",
+                "last": "172.20.3.255"
+              },
+              {
+                "first": "172.20.4.0",
+                "last": "172.20.4.255"
+              },
+              {
+                "first": "172.20.5.0",
+                "last": "172.20.5.255"
+              },
+              {
+                "first": "172.20.6.0",
+                "last": "172.20.6.255"
+              },
+              {
+                "first": "172.20.7.0",
+                "last": "172.20.7.255"
+              },
+              {
+                "first": "172.20.8.0",
+                "last": "172.20.8.255"
+              },
+              {
+                "first": "172.20.9.0",
+                "last": "172.20.9.255"
+              },
+              {
+                "first": "172.20.10.0",
+                "last": "172.20.10.255"
+              },
+              {
+                "first": "172.20.11.0",
+                "last": "172.20.11.255"
+              },
+              {
+                "first": "172.20.12.0",
+                "last": "172.20.12.255"
+              },
+              {
+                "first": "172.20.13.0",
+                "last": "172.20.13.255"
+              },
+              {
+                "first": "172.20.14.0",
+                "last": "172.20.14.255"
+              },
+              {
+                "first": "172.20.15.0",
+                "last": "172.20.15.255"
+              },
+              {
+                "first": "172.20.16.0",
+                "last": "172.20.16.255"
+              },
+              {
+                "first": "172.20.17.0",
+                "last": "172.20.17.255"
+              },
+              {
+                "first": "172.20.18.0",
+                "last": "172.20.18.255"
+              },
+              {
+                "first": "172.20.19.0",
+                "last": "172.20.19.255"
+              },
+              {
+                "first": "172.20.20.0",
+                "last": "172.20.20.255"
+              },
+              {
+                "first": "172.20.21.0",
+                "last": "172.20.21.255"
+              },
+              {
+                "first": "172.20.22.0",
+                "last": "172.20.22.255"
+              },
+              {
+                "first": "172.20.23.0",
+                "last": "172.20.23.255"
+              },
+              {
+                "first": "172.20.24.0",
+                "last": "172.20.24.255"
+              },
+              {
+                "first": "172.20.25.0",
+                "last": "172.20.25.255"
+              },
+              {
+                "first": "172.20.26.0",
+                "last": "172.20.26.255"
+              },
+              {
+                "first": "172.20.27.0",
+                "last": "172.20.27.255"
+              },
+              {
+                "first": "172.20.28.0",
+                "last": "172.20.28.255"
+              },
+              {
+                "first": "172.20.29.0",
+                "last": "172.20.29.255"
+              },
+              {
+                "first": "172.20.30.0",
+                "last": "172.20.30.255"
+              },
+              {
+                "first": "172.20.31.0",
+                "last": "172.20.31.255"
+              },
+              {
+                "first": "172.20.32.0",
+                "last": "172.20.32.255"
+              },
+              {
+                "first": "172.20.36.0",
+                "last": "172.20.36.255"
+              },
+              {
+                "first": "172.20.35.0",
+                "last": "172.20.35.255"
+              },
+              {
+                "first": "172.20.42.0",
+                "last": "172.20.42.255"
+              },
+              {
+                "first": "172.20.47.0",
+                "last": "172.20.47.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "EADO - East DOC",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.30.149.0",
+                "last": "172.30.149.255"
+              },
+              {
+                "first": "172.30.148.0",
+                "last": "172.30.148.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "WEDO - West DOC",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.30.169.0",
+                "last": "172.30.169.255"
+              },
+              {
+                "first": "172.30.168.0",
+                "last": "172.30.168.255"
+              }
+            ],
+            "read-only": false
+          }
+        ]
+      },
+      {
+        "type": "area",
+        "name": "Data Center",
+        "read-only": false,
+        "sites": [
+          {
+            "type": "site",
+            "name": "ODCX - Oncor Data Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "10.240.0.0",
+                "last": "10.240.255.255"
+              },
+              {
+                "first": "10.250.0.0",
+                "last": "10.250.255.255"
+              }
+            ],
+            "read-only": false
+          }
+        ]
+      },
+      {
+        "type": "area",
+        "name": "Field Office",
+        "read-only": false,
+        "sites": [
+          {
+            "type": "site",
+            "name": "BENS - Benbrook Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.6.0",
+                "last": "172.29.6.255"
+              },
+              {
+                "first": "172.21.134.0",
+                "last": "172.21.134.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "DESS - Desoto Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.105.0",
+                "last": "172.29.105.255"
+              },
+              {
+                "first": "172.21.151.0",
+                "last": "172.21.151.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "JAVS - Jacksonville- Alabama Street Office",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.146.0",
+                "last": "172.29.146.255"
+              },
+              {
+                "first": "172.21.167.0",
+                "last": "172.21.167.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "WFAO - Wichita Falls OPS \u0026 DDC",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.30.10.0",
+                "last": "172.30.10.255"
+              },
+              {
+                "first": "172.21.205.0",
+                "last": "172.21.205.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "PARS - Paris Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.18.0",
+                "last": "172.29.18.255"
+              },
+              {
+                "first": "172.21.182.0",
+                "last": "172.21.182.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "TEXS - Texoma (Denison) Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.84.0",
+                "last": "172.29.84.255"
+              },
+              {
+                "first": "172.21.199.0",
+                "last": "172.21.199.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "LIGT - Irving - Liggett Material",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.28.0",
+                "last": "172.29.28.255"
+              },
+              {
+                "first": "172.21.165.0",
+                "last": "172.21.165.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "PALT - Palestine Transmission Office",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.80.0",
+                "last": "172.29.80.255"
+              },
+              {
+                "first": "172.21.180.0",
+                "last": "172.21.180.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "MIND - Mineral Wells Office",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.103.0",
+                "last": "172.29.103.255"
+              },
+              {
+                "first": "172.21.174.0",
+                "last": "172.21.174.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "SWES - Sweetwater S C / Transmission",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.30.40.0",
+                "last": "172.30.40.255"
+              },
+              {
+                "first": "172.21.193.0",
+                "last": "172.21.193.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "COMT - Comanche Transmission",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.30.101.0",
+                "last": "172.30.101.255"
+              },
+              {
+                "first": "172.21.141.0",
+                "last": "172.21.141.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "RROS - Round Rock Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.181.0",
+                "last": "172.29.181.255"
+              },
+              {
+                "first": "172.21.186.0",
+                "last": "172.21.186.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "FWOX - Ft. Worth Oncor Central Warehouse",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.45.0",
+                "last": "172.29.45.255"
+              },
+              {
+                "first": "172.21.157.0",
+                "last": "172.21.157.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "PLAT - Plano Transmission Office",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.8.0",
+                "last": "172.29.8.255"
+              },
+              {
+                "first": "172.21.184.0",
+                "last": "172.21.184.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "ANDB - Andrews Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.210.0",
+                "last": "172.29.210.255"
+              },
+              {
+                "first": "172.21.129.0",
+                "last": "172.21.129.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "CENS - Dallas (Central) Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.112.0",
+                "last": "172.29.112.255"
+              },
+              {
+                "first": "172.21.149.0",
+                "last": "172.21.149.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "EASS - Eastland Office / S C",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.61.0",
+                "last": "172.29.61.255"
+              },
+              {
+                "first": "172.21.152.0",
+                "last": "172.21.152.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "Substation",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "10.28.0.0",
+                "last": "10.28.255.255"
+              },
+              {
+                "first": "10.36.0.0",
+                "last": "10.36.255.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "BSPS - Big Spring S C / Transmission",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.214.0",
+                "last": "172.29.214.255"
+              },
+              {
+                "first": "172.21.135.0",
+                "last": "172.21.135.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "ATT Mobile Workforce",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.170.0",
+                "last": "172.29.170.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "RROD - Round Rock Office",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.180.0",
+                "last": "172.29.180.255"
+              },
+              {
+                "first": "172.21.185.0",
+                "last": "172.21.185.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "WACC - Waco CIC",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.224.0",
+                "last": "172.29.224.255"
+              },
+              {
+                "first": "172.21.207.0",
+                "last": "172.21.207.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "DRDO - Central Northeast Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.71.0",
+                "last": "172.29.71.255"
+              },
+              {
+                "first": "172.21.146.0",
+                "last": "172.21.146.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "FNES - HEB (Euless) FTW NESC",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.60.0",
+                "last": "172.29.60.255"
+              },
+              {
+                "first": "172.21.154.0",
+                "last": "172.21.154.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "WAXS - Waxahachie Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.51.0",
+                "last": "172.29.51.255"
+              },
+              {
+                "first": "172.21.202.0",
+                "last": "172.21.202.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "MESS - Mesquite Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.55.0",
+                "last": "172.29.55.255"
+              },
+              {
+                "first": "172.21.171.0",
+                "last": "172.21.171.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "TEMT - Temple Transmission",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.240.0",
+                "last": "172.29.240.255"
+              },
+              {
+                "first": "172.21.195.0",
+                "last": "172.21.195.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "GRAT - Graham Transmission",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.30.6.0",
+                "last": "172.30.6.255"
+              },
+              {
+                "first": "172.21.162.0",
+                "last": "172.21.162.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "CORD - Corsicana Office  MeterCell",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.66.0",
+                "last": "172.29.66.255"
+              },
+              {
+                "first": "172.21.145.0",
+                "last": "172.21.145.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "ODES - Odessa Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.212.0",
+                "last": "172.29.212.255"
+              },
+              {
+                "first": "172.21.178.0",
+                "last": "172.21.178.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "TRC-Telecom Refresh Communications",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "10.133.0.0",
+                "last": "10.133.0.255"
+              },
+              {
+                "first": "10.133.253.0",
+                "last": "10.133.253.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "ATHB - Athens  Business Office",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.88.0",
+                "last": "172.29.88.255"
+              },
+              {
+                "first": "172.21.132.0",
+                "last": "172.21.132.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "LUFS  - Lufkin Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.164.0",
+                "last": "172.29.164.255"
+              },
+              {
+                "first": "172.21.170.0",
+                "last": "172.21.170.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "SSPT - Sulphur Springs Transmission",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.21.191.0",
+                "last": "172.21.191.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "JAVH - Jacksonville Oncor Headquarters  SESCo (Dogwood Trails Dist. Office)",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.145.0",
+                "last": "172.29.145.255"
+              },
+              {
+                "first": "172.21.166.0",
+                "last": "172.21.166.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "PALS - Palestine Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.79.0",
+                "last": "172.29.79.255"
+              },
+              {
+                "first": "172.21.181.0",
+                "last": "172.21.181.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "CORS - Corsicana Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.67.0",
+                "last": "172.29.67.255"
+              },
+              {
+                "first": "172.21.143.0",
+                "last": "172.21.143.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "MIDS - Midland Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.216.0",
+                "last": "172.29.216.255"
+              },
+              {
+                "first": "172.21.173.0",
+                "last": "172.21.173.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "DECB - Decatur Office / S C",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.25.0",
+                "last": "172.29.25.255"
+              },
+              {
+                "first": "172.21.150.0",
+                "last": "172.21.150.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "HILS - Hillsboro Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.229.0",
+                "last": "172.29.229.255"
+              },
+              {
+                "first": "172.21.163.0",
+                "last": "172.21.163.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "BRWS - Brownwood Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.30.98.0",
+                "last": "172.30.98.255"
+              },
+              {
+                "first": "172.21.138.0",
+                "last": "172.21.138.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "KILS - Killeen Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.231.0",
+                "last": "172.29.231.255"
+              },
+              {
+                "first": "172.21.168.0",
+                "last": "172.21.168.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "CORT - Corsicana Transmission",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.68.0",
+                "last": "172.29.68.255"
+              },
+              {
+                "first": "172.21.144.0",
+                "last": "172.21.144.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "FORT - Forney Transmission (new office)",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.21.0",
+                "last": "172.29.21.255"
+              },
+              {
+                "first": "172.21.156.0",
+                "last": "172.21.156.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "FWNS - Ft Worth North Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.58.0",
+                "last": "172.29.58.255"
+              },
+              {
+                "first": "172.21.159.0",
+                "last": "172.21.159.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "MEXS - Mexia Service Center (SESCO)",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.242.0",
+                "last": "172.29.242.255"
+              },
+              {
+                "first": "172.21.172.0",
+                "last": "172.21.172.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "GAIS - Gainesville Office / Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.27.0",
+                "last": "172.29.27.255"
+              },
+              {
+                "first": "172.21.160.0",
+                "last": "172.21.160.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "TRCX - Transmission Repair Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.29.254",
+                "last": "172.29.29.254"
+              },
+              {
+                "first": "172.21.128.254",
+                "last": "172.21.128.254"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "TEMS - Temple Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.239.0",
+                "last": "172.29.239.255"
+              },
+              {
+                "first": "172.21.196.0",
+                "last": "172.21.196.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "TERS - Terrell Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.78.0",
+                "last": "172.29.78.255"
+              },
+              {
+                "first": "172.21.198.0",
+                "last": "172.21.198.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "TAYX - Taylor Staging Area-Svc Ctr",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.183.0",
+                "last": "172.29.183.255"
+              },
+              {
+                "first": "172.21.194.0",
+                "last": "172.21.194.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "Verizon Modems",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.30.236.0",
+                "last": "172.30.236.255"
+              },
+              {
+                "first": "172.30.237.0",
+                "last": "172.30.237.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "TEXT - Texoma (Sherman) Trans",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.56.0",
+                "last": "172.29.56.255"
+              },
+              {
+                "first": "172.21.187.0",
+                "last": "172.21.187.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "MCKB - Mckinney Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.9.0",
+                "last": "172.29.9.255"
+              },
+              {
+                "first": "172.21.240.0",
+                "last": "172.21.240.255"
+              },
+              {
+                "first": "172.21.203.0",
+                "last": "172.21.203.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "ARLS - Arlington Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.40.0",
+                "last": "172.29.40.255"
+              },
+              {
+                "first": "172.21.130.0",
+                "last": "172.21.130.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "B2B VPN-M\u0026S Engineering",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "192.168.60.0",
+                "last": "192.168.60.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "MINS - Mineral Wells Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.104.0",
+                "last": "172.29.104.255"
+              },
+              {
+                "first": "172.21.175.0",
+                "last": "172.21.175.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "NACD - Nacogdoches Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.165.0",
+                "last": "172.29.165.255"
+              },
+              {
+                "first": "172.21.177.0",
+                "last": "172.21.177.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "FBRB - Farmers Branch Office",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.42.0",
+                "last": "172.29.42.255"
+              },
+              {
+                "first": "172.21.155.0",
+                "last": "172.21.155.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "SSPS - Sulphur Springs Office / S C",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.20.0",
+                "last": "172.29.20.255"
+              },
+              {
+                "first": "172.21.190.0",
+                "last": "172.21.190.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "HEBD - Hurst-Euless-Bedford (HEB) BusinessOffice",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.96.0",
+                "last": "172.29.96.255"
+              },
+              {
+                "first": "172.21.153.0",
+                "last": "172.21.153.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "LUFT - Lufkin Transmission",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.162.0",
+                "last": "172.29.162.255"
+              },
+              {
+                "first": "172.21.169.0",
+                "last": "172.21.169.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "DNOS - Dallas (North ) Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.65.0",
+                "last": "172.29.65.255"
+              },
+              {
+                "first": "172.21.148.0",
+                "last": "172.21.148.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "ATHS - Athens Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.63.0",
+                "last": "172.29.63.255"
+              },
+              {
+                "first": "172.21.131.0",
+                "last": "172.21.131.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "FWHT - Fort Worth (Handley) Transmission",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.59.0",
+                "last": "172.29.59.255"
+              },
+              {
+                "first": "172.21.158.0",
+                "last": "172.21.158.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "FTMZ - Fort Worth Measurement Office",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.32.0",
+                "last": "172.29.32.255"
+              },
+              {
+                "first": "172.21.241.0",
+                "last": "172.21.241.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "WACS - Waco S C / Transmission",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.226.0",
+                "last": "172.29.226.255"
+              },
+              {
+                "first": "172.21.201.0",
+                "last": "172.21.201.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "BRWD - Brownwood Office",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.30.96.0",
+                "last": "172.30.96.255"
+              },
+              {
+                "first": "172.21.137.0",
+                "last": "172.21.137.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "WFAS - Wichita Falls S C / Transmission",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.30.12.0",
+                "last": "172.30.12.255"
+              },
+              {
+                "first": "172.21.204.0",
+                "last": "172.21.204.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "MONS - Monahans Office / Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.209.0",
+                "last": "172.29.209.255"
+              },
+              {
+                "first": "172.21.176.0",
+                "last": "172.21.176.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "LDAS - Lake Dallas (Corinth) Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.74.0",
+                "last": "172.29.74.255"
+              },
+              {
+                "first": "172.21.142.0",
+                "last": "172.21.142.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "SNYS - Snyder Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.30.33.0",
+                "last": "172.30.33.255"
+              },
+              {
+                "first": "172.21.188.0",
+                "last": "172.21.188.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "STEB - Stephenville Office / S C",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.7.0",
+                "last": "172.29.7.255"
+              },
+              {
+                "first": "172.21.189.0",
+                "last": "172.21.189.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "BOND - Bonham Office / S C",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.90.0",
+                "last": "172.29.90.255"
+              },
+              {
+                "first": "172.21.136.0",
+                "last": "172.21.136.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "AUSB - Austin Public \u0026 Regulatory Affairs",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.69.0",
+                "last": "172.29.69.255"
+              },
+              {
+                "first": "172.21.206.0",
+                "last": "172.21.206.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "ODET - Western Region Transmission -  Odessa Trans",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.211.0",
+                "last": "172.29.211.255"
+              },
+              {
+                "first": "172.21.179.0",
+                "last": "172.21.179.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "GRAS - Graham Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.30.7.0",
+                "last": "172.30.7.255"
+              },
+              {
+                "first": "172.21.161.0",
+                "last": "172.21.161.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "TYLD - Tyler South East Region C C",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.150.0",
+                "last": "172.29.150.255"
+              },
+              {
+                "first": "172.21.200.0",
+                "last": "172.21.200.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "HCL India",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "10.209.5.0",
+                "last": "10.209.5.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "SSPZ - Sulphur Springs Meter Cell Office",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.149.0",
+                "last": "172.29.149.255"
+              },
+              {
+                "first": "172.21.192.0",
+                "last": "172.21.192.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "DALT - Irving  Heights Basement Trans",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.36.0",
+                "last": "172.29.36.255"
+              },
+              {
+                "first": "172.21.164.0",
+                "last": "172.21.164.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "DMZ",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "199.16.160.0",
+                "last": "199.16.160.255"
+              },
+              {
+                "first": "199.16.161.0",
+                "last": "199.16.161.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "CLES - Cleburne Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.46.0",
+                "last": "172.29.46.255"
+              },
+              {
+                "first": "172.21.140.0",
+                "last": "172.21.140.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "ATT Modems",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.30.232.0",
+                "last": "172.30.232.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "FBRS - Farmers Branch Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.43.0",
+                "last": "172.29.43.255"
+              },
+              {
+                "first": "172.21.139.0",
+                "last": "172.21.139.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "DSWS - Central Southwest Service Center",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.64.0",
+                "last": "172.29.64.255"
+              },
+              {
+                "first": "172.21.147.0",
+                "last": "172.21.147.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "Capgemini Poland",
+            "comment": "Capgemini B2B VPN for Poland team.",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "67.204.106.172",
+                "last": "67.204.106.172"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "VPN",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.20.240.0",
+                "last": "172.20.240.255"
+              },
+              {
+                "first": "172.20.231.0",
+                "last": "172.20.231.255"
+              },
+              {
+                "first": "172.20.232.0",
+                "last": "172.20.232.255"
+              },
+              {
+                "first": "172.20.241.0",
+                "last": "172.20.241.255"
+              },
+              {
+                "first": "172.20.247.0",
+                "last": "172.20.247.255"
+              },
+              {
+                "first": "172.20.246.0",
+                "last": "172.20.246.255"
+              },
+              {
+                "first": "172.20.245.0",
+                "last": "172.20.245.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "GROT - Glen Rose Transmission",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.11.0",
+                "last": "172.29.11.255"
+              },
+              {
+                "first": "172.21.215.0",
+                "last": "172.21.215.255"
+              }
+            ],
+            "read-only": false
+          },
+          {
+            "type": "site",
+            "name": "TEMD - Temple Business Office",
+            "comment": "",
+            "subtype": "Manual",
+            "isUDL": false,
+            "isWAN": false,
+            "dnsTimestamp": 0,
+            "dns": "",
+            "aux": "",
+            "domains": [
+              {
+                "first": "172.29.238.0",
+                "last": "172.29.238.255"
+              },
+              {
+                "first": "172.21.197.0",
+                "last": "172.21.197.255"
+              }
+            ],
+            "read-only": false
+          }
+        ]
+      }
+    ]
+  }
+]
